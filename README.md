@@ -1,4 +1,4 @@
-# portfolio-rn# **Sergiu Ciornii**
+# **Sergiu Ciornii**
 
 📍 Chișinău, Moldova  
 📧 cs120319992@gmail.com  
@@ -11,7 +11,7 @@
 I’m a **junior React Native developer** with around **4 months of hands-on experience**, currently focused on building modern mobile apps with **React Native** and **Expo**.  
 Before that, I spent about **6 years working with Unity and C#**, developing various games and tools, which helped me gain strong programming and problem-solving skills.  
 I still work on Unity pet projects occasionally, but my main focus is now on mobile app development.  
-I enjoy building clean, functional, and user-friendly apps, and I’m looking for an opportunity to grow as part of a professional team.
+I enjoy building clean, functional, and user-friendly apps.
 
 ---
 
